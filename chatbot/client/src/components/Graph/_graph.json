@@ -191,11 +191,6 @@
             "title": "Model Selection"
         },
         {
-            "id": "https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Open%20AI?csf=1&web=1&e=VTudTF",
-            "group": 1,
-            "title": "Azure Open AI deployment with Managed Identity"
-        },
-        {
             "id": "https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering",
             "group": 1,
             "title": "Prompt Engineering"
@@ -261,11 +256,6 @@
             "title": "Azure Best Practices"
         },
         {
-            "id": "https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20App%20Service%20(Web%20App",
-            "group": 1,
-            "title": "Deploy Vector Database in App Service for development Environment"
-        },
-        {
             "id": "https://learn.microsoft.com/en-us/azure/app-service/",
             "group": 1,
             "title": "Azure App Service Documentation"
@@ -289,31 +279,6 @@
             "id": "https://learn.microsoft.com/en-us/azure/application-gateway/",
             "group": 1,
             "title": "Azure Application Gateway Overview"
-        },
-        {
-            "id": "https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Application%20Gateway/Step01%20-%20Deployment-overview?csf=1&web=1&e=XtClHT",
-            "group": 1,
-            "title": "Azure Application Gateway - Deployment Overview"
-        },
-        {
-            "id": "https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Application%20Gateway/Step02%20-%20App-service-configuration-and-application-gateway-deployment?csf=1&web=1&e=a7Fq2C",
-            "group": 1,
-            "title": "App Service Configuration and Application Gateway Deployment"
-        },
-        {
-            "id": "https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Application%20Gateway/Step03%20-%20Application-gateway-http-configuration-to-app-service?csf=1&web=1&e=9JDx2J",
-            "group": 1,
-            "title": "Application Gateway Http Configuration to App Service"
-        },
-        {
-            "id": "https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Application%20Gateway/Step04%20-%20Create-local-ssl-cert-for-app-service-custom-domain?csf=1&web=1&e=R0NoYL",
-            "group": 1,
-            "title": "Create Local SSL Certificate for App Service Custom Domain"
-        },
-        {
-            "id": "https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Application%20Gateway/Step05%20-%20Application-gateway-configure-https-routing?csf=1&web=1&e=a2H9ls",
-            "group": 1,
-            "title": "Configure Https Routing for Application Gateway"
         },
         {
             "id": "https://learn.microsoft.com/en-us/azure/application-gateway/overview",
@@ -341,16 +306,6 @@
             "title": "container image storage"
         },
         {
-            "id": "https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Container%20Registry/Step01%20-%20Azure-container-registry-push-local-docker-image-to-acr?csf=1&web=1&e=XmT4v2",
-            "group": 1,
-            "title": "Azure Container Registry - Push local docker image to ACR"
-        },
-        {
-            "id": "https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Container%20Registry/Step02%20-%20Azure-container-registry-with-azure-devops-ci-cd-setup?csf=1&web=1&e=AEMpJR",
-            "group": 1,
-            "title": "Azure Container Registry with Azure Devops CI/CD Setup"
-        },
-        {
             "id": "https://learn.microsoft.com/en-us/azure/container-registry/",
             "group": 1,
             "title": "ACR Container Registry"
@@ -369,16 +324,6 @@
             "id": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-pageblob-overview",
             "group": 1,
             "title": "Learn more about page blobs and their storage accounts."
-        },
-        {
-            "id": "https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Storage%20Account/Step01%20-%20Azure-storage-account-deployment-with-security-configs?csf=1&web=1&e=nN9rDX",
-            "group": 1,
-            "title": "Azure Storage Account Deployment with Security Configs"
-        },
-        {
-            "id": "https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Storage%20Account/Step02%20-%20Azure-storage-account-private-endpoint-with-managed-identity?csf=1&web=1&e=iiWTf7",
-            "group": 1,
-            "title": "Azure Storage Account Private Endpoint with Managed Identity"
         },
         {
             "id": "https://learn.microsoft.com/en-us/azure/storage/blobs/",
@@ -409,11 +354,6 @@
             "id": "Azure360\\Azure Best Practices\\Application Services\\Storage Account.md",
             "group": 2,
             "title": "Storage Account.md"
-        },
-        {
-            "id": "https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Virtual%20Machine?csf=1&web=1&e=7iWVQd",
-            "group": 1,
-            "title": "Azure Virtual Machine Deployment with Vector Database as Docker Container"
         },
         {
             "id": "https://learn.microsoft.com/en-us/azure/virtual-machines/",
@@ -1266,29 +1206,14 @@
             "title": "Draw.io (diagrams.net)"
         },
         {
-            "id": "https://solitontech.sharepoint.com/:u:/r/sites/SolitonKnowledgeBase/Soliton%20Knowledge%20Base/Software%20Programming/Architecture/C4%20Model%20Templates/C4_model_template.drawio?csf=1&web=1&e=se0rkS",
-            "group": 1,
-            "title": "C4 Model Template"
-        },
-        {
             "id": "https://www.microsoft.com/en-us/microsoft-365/visio/",
             "group": 1,
             "title": "Microsoft Visio"
         },
         {
-            "id": "https://solitontech.sharepoint.com/:u:/r/sites/SolitonKnowledgeBase/Soliton%20Knowledge%20Base/Software%20Programming/Architecture/C4%20Model%20Templates/C4_model_template-C4%20Context.vsdx?d=w4938c852ba384eaa9e6e69f26458c89d&csf=1&web=1&e=B7aKGe",
-            "group": 1,
-            "title": "C4 Context Template"
-        },
-        {
             "id": "https://github.com/RicardoNiepel/C4-PlantUML",
             "group": 1,
             "title": "C4 PlantUML"
-        },
-        {
-            "id": "https://solitontech.sharepoint.com/:f:/r/sites/SolitonKnowledgeBase/Soliton%20Knowledge%20Base/Software%20Programming/Architecture/C4%20Model%20Templates/PlantUml?csf=1&web=1&e=kNc95u",
-            "group": 1,
-            "title": "PlantUML Templates"
         },
         {
             "id": "https://www.ibm.com/garage/method/practices/code/c4-model-for-software-architecture",
@@ -1426,11 +1351,6 @@
             "title": "Poetry Documentation"
         },
         {
-            "id": "https://solitontech.sharepoint.com/:p:/r/sites/SolitonKnowledgeBase/_layouts/15/Doc.aspx?sourcedoc=%7B1DCB09B7-B1CD-4AEB-AA2B-ED2B10F444A7%7D&file=Python%20-%20Setting%20up%20Virtual%20Environments.pptx&action=edit&mobileredirect=true",
-            "group": 1,
-            "title": "Python - Setting up virtual environments"
-        },
-        {
             "id": "CodingStandards\\Python\\DependencyManagement.md",
             "group": 2,
             "title": "DependencyManagement.md"
@@ -1464,11 +1384,6 @@
             "id": "https://en.wikipedia.org/wiki/Guido_van_Rossum",
             "group": 1,
             "title": "Guido van Rossum"
-        },
-        {
-            "id": "https://dev.azure.com/Soliton/SolitonCentral/_git/SolitonCentral?path=/Templates/Python/python_starter_code/README.md&_a=preview",
-            "group": 1,
-            "title": "Python Starter Code Repository"
         },
         {
             "id": "https://inventwithpython.com/blog/2022/11/19/python-linter-comparison-2022-pylint-vs-pyflakes-vs-flake8-vs-autopep8-vs-bandit-vs-prospector-vs-pylama-vs-pyroma-vs-black-vs-mypy-vs-radon-vs-mccabe/",
@@ -1514,21 +1429,6 @@
             "id": "CodingStandards\\React",
             "group": 3,
             "title": "React"
-        },
-        {
-            "id": "https://solitontech.sharepoint.com/:v:/s/TechCouncil/Eai5n1kBId5Oh7vkj28ZyGkB2ZdRfszxSqR9oIPi8H2ctA?e=3xXkJi",
-            "group": 1,
-            "title": "Acceptance Table Tutorial"
-        },
-        {
-            "id": "https://solitontech.sharepoint.com/:p:/s/TechCouncil/EXwD-HA_4IhMuxJS3Qnl7qcBZKmQGPoNEOt2Y1NdfaSAag?e=WePOVj",
-            "group": 1,
-            "title": "Acceptance Table Presentation"
-        },
-        {
-            "id": "https://solitontech.sharepoint.com/:f:/s/SolitonKnowledgeBase/Ejll1co7OFJIt7r_5nKYHWMBCQZI4MlNNChs34PyIi-S_Q?e=Qa2ahx",
-            "group": 1,
-            "title": "Acceptance Table Template & Examples"
         },
         {
             "id": "DevOps\\AcceptanceTable.md",
@@ -1586,16 +1486,6 @@
             "title": "here"
         },
         {
-            "id": "https://dev.azure.com/Soliton/SolitonCentral/_git/SolitonCentral?path=/Documents/Handbooks/.assets",
-            "group": 1,
-            "title": "Soliton Central Repo's asset"
-        },
-        {
-            "id": "https://dev.azure.com/Soliton/SolitonCentral/_git/SolitonCentral?path=/Documents/Handbooks/Conventions/SoftwareEngineering/Practices/SoftwareEngineeringPractices.md&anchor=requirement-documentation&_a=preview#requirement-documentation",
-            "group": 1,
-            "title": "here"
-        },
-        {
             "id": "DevOps\\GITVersionControl.md",
             "group": 2,
             "title": "GITVersionControl.md"
@@ -1604,61 +1494,6 @@
             "id": "DevOps\\MeasuringSoftwareEngineeringPractics.md",
             "group": 2,
             "title": "MeasuringSoftwareEngineeringPractics.md"
-        },
-        {
-            "id": "https://solitontech.sharepoint.com/:p:/s/TechCouncil/EQgOFsXa6dxGq4HwUaYXOzEBK6y6u_8mzdngtrdfflrMaQ?e=NdkOgH",
-            "group": 1,
-            "title": "Requirement Documentation](#requirement-documentation)     | Records functional and non-functional requirements                                   | `Project Lead` | [System Requirements Template](../../../Templates/SystemRequirementsTemplate.md), [Feature Requirements Template](../../../Templates/FeatureRequirementsTemplate.md)                                                                                                                                                                                                        | [Overview"
-        },
-        {
-            "id": "https://solitontech.sharepoint.com/:f:/s/SolitonKnowledgeBase/Ejll1co7OFJIt7r_5nKYHWMBCQZI4MlNNChs34PyIi-S_Q?e=463jFG",
-            "group": 1,
-            "title": "Acceptance Table Definition](#acceptance-table-definition) | Records all test scenarios for every feature that needs to pass before releasing     | `Project Lead` | [Acceptance Table Template"
-        },
-        {
-            "id": "https://dev.azure.com/Soliton/SolitonCentral/_git/SolitonCentral?path=/Documents/Handbooks/Conventions/SoftwareEngineering/Practices/AcceptanceTable/Overview.md&version=GBmain&_a=preview",
-            "group": 1,
-            "title": "Acceptance Table Overview"
-        },
-        {
-            "id": "https://solitontech.sharepoint.com/:p:/s/TechCouncil/EXwD-HA_4IhMuxJS3Qnl7qcBZKmQGPoNEOt2Y1NdfaSAag?e=NuTHwY",
-            "group": 1,
-            "title": "Overview"
-        },
-        {
-            "id": "https://solitontech.sharepoint.com/:p:/s/TechCouncil/ETFqpFGPR6ZDtVLiKuvJKsoBld4bkga6BjTLBMavfM5OQg?e=tWpSVE",
-            "group": 1,
-            "title": "Version Control](#version-control)                         | Manages versions, changes and facilitates collaboration across all project documents | `Tech Lead`    | [Repository folder structure for projects](../Practices/VersionControl/RepoFolderStructure.md)                                                                                                                                                                                                                                                                              | [Overview"
-        },
-        {
-            "id": "https://solitontech.sharepoint.com/:p:/s/TechCouncil/EeM39Q8UiZdMtAEl0v6sjD4Bmbchxl_xbhsWdjQEjipXfg?e=kNYOQw",
-            "group": 1,
-            "title": "Trunk Based Development](#trunk-based-development)         | Version control strategy to streamline integration of code in small batches          | `Tech Lead`    |                                                                                                                                                                                                                                                                                                                                                                             | [Overview"
-        },
-        {
-            "id": "https://solitontech.sharepoint.com/:p:/s/TechCouncil/EWVSythZNXJLkecxr8TsCv4Bqpvl6Pg5Epm2t6tUNmsIOQ?e=vu9fcD",
-            "group": 1,
-            "title": "Overview"
-        },
-        {
-            "id": "https://solitontech.sharepoint.com/:p:/s/TechCouncil/ETnwVAzlcBBOiPIOplq5GsQBygP6kEzBwenkxNzEpsKMnQ?e=ceeS4s",
-            "group": 1,
-            "title": "Test Automation](#test-automation)                         | Enables software quality with early detection of bugs & issues                       | `Tech Lead`    | [Test automation overview](./TestAutomation.md)                                                                                                                                                                                                                                                                                                                             | [Overview"
-        },
-        {
-            "id": "https://solitontech.sharepoint.com/:p:/s/TechCouncil/EfcrH7RxS4tKsuKiR5_f_KcBRH7XC_BCGVDB-GX4oI6WFw?e=UdOIEV",
-            "group": 1,
-            "title": "Continuous Integration (CI)](#continuous-integration-ci)   | Reduces integration issues and improves developer collaboration                      | `Tech Lead`    | [CI Pipeline Templates for AzDo](../../../../../BuildTools/Pipeline/Templates/)                                                                                                                                                                                                                                                                                             | [Overview"
-        },
-        {
-            "id": "https://solitontech.sharepoint.com/:p:/s/TechCouncil/EbYkQg7vVrtKnPbHj-sfbJEBSDFmWz87ZMMlh_crftGHKg?e=9wLcse",
-            "group": 1,
-            "title": "Deployment Automation](#deployment-automation)             | Reduces the risk of production deployment and enables fast deployment                | `Tech Lead`    |                                                                                                                                                                                                                                                                                                                                                                             | [Overview"
-        },
-        {
-            "id": "https://solitontech.sharepoint.com/:f:/s/SolitonKnowledgeBase/Ejll1co7OFJIt7r_5nKYHWMBCQZI4MlNNChs34PyIi-S_Q?e=mvBIjO",
-            "group": 1,
-            "title": "Acceptance Table Template"
         },
         {
             "id": "https://google.github.io/eng-practices/review/reviewer/",
@@ -1776,36 +1611,6 @@
             "title": "State of DevOps Report 2023"
         },
         {
-            "id": "https://dev.azure.com/Soliton/_git/SolitonCentral?path=/BuildTools/Pipeline/Templates",
-            "group": 1,
-            "title": "Pipeline Templates"
-        },
-        {
-            "id": "https://dev.azure.com/Soliton/SolitonCentral/_build/results?buildId=3673&view=logs&j=20e0d27b-13a0-56d1-e92e-356d4b6f13ab&t=48c43fc3-58ff-4cf4-b7c8-a85f63084161",
-            "group": 1,
-            "title": "Python pipeline"
-        },
-        {
-            "id": "https://dev.azure.com/Soliton/SolitonCentral/_build/results?buildId=6174&view=logs&j=44924a46-d57d-577d-8d02-f491a55bb871&t=e5b6046a-0bf0-52db-7fcf-e461f793026e&l=32",
-            "group": 1,
-            "title": "Documentation Pipeline"
-        },
-        {
-            "id": "https://solitontech.sharepoint.com/:p:/r/sites/TechCouncil/Shared%20Documents/General/Documents/Utkarsh/Software%20Engineering%20Practices/Practice%20-%20006%20-%20Continuous%20Integration.pptx?d=wb41f2bf74b714a8bb2e2a2479fdffca7&csf=1&web=1&e=qW5yKI",
-            "group": 1,
-            "title": "CI Practice PPT"
-        },
-        {
-            "id": "https://dev.azure.com/Soliton/SolitonCentral/_wiki/wikis/SolitonCentral.Documents/802/HowToCreatePipelineInAzDo?anchor=how-to-create-a-new-pipeline-in-azure-devops",
-            "group": 1,
-            "title": "How To create a new pipeline in AzDO Soliton Central"
-        },
-        {
-            "id": "https://dev.azure.com/Soliton/SolitonCentral/_git/SolitonCentral?path=/CONTRIBUTING.md&_a=preview&anchor=running-the-checks-locally",
-            "group": 1,
-            "title": "Soliton central example"
-        },
-        {
             "id": "https://docs.npmjs.com/cli/v10/commands/npm-audit",
             "group": 1,
             "title": "npm audit example"
@@ -1869,11 +1674,6 @@
             "id": "https://trunkbaseddevelopment.com/",
             "group": 1,
             "title": "Trunk-based development"
-        },
-        {
-            "id": "https://dev.azure.com/Soliton/SolitonCentral/_git/SolitonCentral?path=/Documents/Handbooks/Conventions/SoftwareEngineering/MeasuringSoftwareEngineeringPractices.md&version=GBmain&line=47&lineEnd=47&lineStartColumn=1&lineEndColumn=27&lineStyle=plain&_a=contents",
-            "group": 1,
-            "title": "metrics"
         },
         {
             "id": "https://martinfowler.com/articles/feature-toggles.html",
@@ -2596,11 +2396,6 @@
             "title": "config.yaml"
         },
         {
-            "id": "https://solitontech-my.sharepoint.com/:f:/p/pradeep_suresh/EqQrEhbHr2VDmBVnBweoUpoBTRjllcgdMUbUsUpstko63w?e=fKetXI",
-            "group": 1,
-            "title": "Trulens Evaluation report files"
-        },
-        {
             "id": "RAG360\\Data Ingestion\\Vector Database\\Self Hosted\\Qdrant.md",
             "group": 2,
             "title": "Qdrant.md"
@@ -2884,11 +2679,6 @@
             "id": "https://ollama.com/download/windows",
             "group": 1,
             "title": "https://ollama.com/download/windows"
-        },
-        {
-            "id": "https://dev.azure.com/Soliton/Soliton%20Ventures/_git/Astro?version=GBmain&path=/prototypes/litellmproxy/litellmproxy/ollama_access.ipynb",
-            "group": 1,
-            "title": "https://dev.azure.com/Soliton/Soliton%20Ventures/\\_git/Astro?version=GBmain&path=/prototypes/litellmproxy/litellmproxy/ollama_access.ipynb"
         },
         {
             "id": "https://ollama.com/blog/amd-preview",
@@ -3807,12 +3597,6 @@
         },
         {
             "source": "Azure360\\Azure Best Practices\\Open AI Services.md",
-            "target": "https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Open%20AI?csf=1&web=1&e=VTudTF",
-            "value": 1,
-            "title": "Azure Open AI deployment with Managed Identity"
-        },
-        {
-            "source": "Azure360\\Azure Best Practices\\Open AI Services.md",
             "target": "https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering",
             "value": 1,
             "title": "Prompt Engineering"
@@ -3903,12 +3687,6 @@
         },
         {
             "source": "Azure360\\Azure Best Practices\\Application Services\\App Service.md",
-            "target": "https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20App%20Service%20(Web%20App",
-            "value": 1,
-            "title": "Deploy Vector Database in App Service for development Environment"
-        },
-        {
-            "source": "Azure360\\Azure Best Practices\\Application Services\\App Service.md",
             "target": "https://learn.microsoft.com/en-us/azure/app-service/",
             "value": 1,
             "title": "Azure App Service Documentation"
@@ -3951,36 +3729,6 @@
         },
         {
             "source": "Azure360\\Azure Best Practices\\Application Services\\Application Gateway.md",
-            "target": "https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Application%20Gateway/Step01%20-%20Deployment-overview?csf=1&web=1&e=XtClHT",
-            "value": 1,
-            "title": "Azure Application Gateway - Deployment Overview"
-        },
-        {
-            "source": "Azure360\\Azure Best Practices\\Application Services\\Application Gateway.md",
-            "target": "https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Application%20Gateway/Step02%20-%20App-service-configuration-and-application-gateway-deployment?csf=1&web=1&e=a7Fq2C",
-            "value": 1,
-            "title": "App Service Configuration and Application Gateway Deployment"
-        },
-        {
-            "source": "Azure360\\Azure Best Practices\\Application Services\\Application Gateway.md",
-            "target": "https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Application%20Gateway/Step03%20-%20Application-gateway-http-configuration-to-app-service?csf=1&web=1&e=9JDx2J",
-            "value": 1,
-            "title": "Application Gateway Http Configuration to App Service"
-        },
-        {
-            "source": "Azure360\\Azure Best Practices\\Application Services\\Application Gateway.md",
-            "target": "https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Application%20Gateway/Step04%20-%20Create-local-ssl-cert-for-app-service-custom-domain?csf=1&web=1&e=R0NoYL",
-            "value": 1,
-            "title": "Create Local SSL Certificate for App Service Custom Domain"
-        },
-        {
-            "source": "Azure360\\Azure Best Practices\\Application Services\\Application Gateway.md",
-            "target": "https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Application%20Gateway/Step05%20-%20Application-gateway-configure-https-routing?csf=1&web=1&e=a2H9ls",
-            "value": 1,
-            "title": "Configure Https Routing for Application Gateway"
-        },
-        {
-            "source": "Azure360\\Azure Best Practices\\Application Services\\Application Gateway.md",
             "target": "https://learn.microsoft.com/en-us/azure/application-gateway/overview",
             "value": 1,
             "title": "Azure Application Gateway"
@@ -4011,18 +3759,6 @@
         },
         {
             "source": "Azure360\\Azure Best Practices\\Application Services\\Container Registry.md",
-            "target": "https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Container%20Registry/Step01%20-%20Azure-container-registry-push-local-docker-image-to-acr?csf=1&web=1&e=XmT4v2",
-            "value": 1,
-            "title": "Azure Container Registry - Push local docker image to ACR"
-        },
-        {
-            "source": "Azure360\\Azure Best Practices\\Application Services\\Container Registry.md",
-            "target": "https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Container%20Registry/Step02%20-%20Azure-container-registry-with-azure-devops-ci-cd-setup?csf=1&web=1&e=AEMpJR",
-            "value": 1,
-            "title": "Azure Container Registry with Azure Devops CI/CD Setup"
-        },
-        {
-            "source": "Azure360\\Azure Best Practices\\Application Services\\Container Registry.md",
             "target": "https://learn.microsoft.com/en-us/azure/container-registry/",
             "value": 1,
             "title": "ACR Container Registry"
@@ -4044,18 +3780,6 @@
             "target": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-pageblob-overview",
             "value": 1,
             "title": "Learn more about page blobs and their storage accounts."
-        },
-        {
-            "source": "Azure360\\Azure Best Practices\\Application Services\\Storage Account.md",
-            "target": "https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Storage%20Account/Step01%20-%20Azure-storage-account-deployment-with-security-configs?csf=1&web=1&e=nN9rDX",
-            "value": 1,
-            "title": "Azure Storage Account Deployment with Security Configs"
-        },
-        {
-            "source": "Azure360\\Azure Best Practices\\Application Services\\Storage Account.md",
-            "target": "https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Storage%20Account/Step02%20-%20Azure-storage-account-private-endpoint-with-managed-identity?csf=1&web=1&e=iiWTf7",
-            "value": 1,
-            "title": "Azure Storage Account Private Endpoint with Managed Identity"
         },
         {
             "source": "Azure360\\Azure Best Practices\\Application Services\\Storage Account.md",
@@ -4098,12 +3822,6 @@
             "target": "Azure360\\Azure Best Practices\\Application Services\\Storage Account.md",
             "value": 1,
             "title": "Azure360\\Azure Best Practices\\Application Services\\Storage Account.md"
-        },
-        {
-            "source": "Azure360\\Azure Best Practices\\Application Services\\Virtual Machine.md",
-            "target": "https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Virtual%20Machine?csf=1&web=1&e=7iWVQd",
-            "value": 1,
-            "title": "Azure Virtual Machine Deployment with Vector Database as Docker Container"
         },
         {
             "source": "Azure360\\Azure Best Practices\\Application Services\\Virtual Machine.md",
@@ -5229,33 +4947,15 @@
         },
         {
             "source": "CodingStandards\\c4_model.md",
-            "target": "https://solitontech.sharepoint.com/:u:/r/sites/SolitonKnowledgeBase/Soliton%20Knowledge%20Base/Software%20Programming/Architecture/C4%20Model%20Templates/C4_model_template.drawio?csf=1&web=1&e=se0rkS",
-            "value": 1,
-            "title": "C4 Model Template"
-        },
-        {
-            "source": "CodingStandards\\c4_model.md",
             "target": "https://www.microsoft.com/en-us/microsoft-365/visio/",
             "value": 1,
             "title": "Microsoft Visio"
         },
         {
             "source": "CodingStandards\\c4_model.md",
-            "target": "https://solitontech.sharepoint.com/:u:/r/sites/SolitonKnowledgeBase/Soliton%20Knowledge%20Base/Software%20Programming/Architecture/C4%20Model%20Templates/C4_model_template-C4%20Context.vsdx?d=w4938c852ba384eaa9e6e69f26458c89d&csf=1&web=1&e=B7aKGe",
-            "value": 1,
-            "title": "C4 Context Template"
-        },
-        {
-            "source": "CodingStandards\\c4_model.md",
             "target": "https://github.com/RicardoNiepel/C4-PlantUML",
             "value": 1,
             "title": "C4 PlantUML"
-        },
-        {
-            "source": "CodingStandards\\c4_model.md",
-            "target": "https://solitontech.sharepoint.com/:f:/r/sites/SolitonKnowledgeBase/Soliton%20Knowledge%20Base/Software%20Programming/Architecture/C4%20Model%20Templates/PlantUml?csf=1&web=1&e=kNc95u",
-            "value": 1,
-            "title": "PlantUML Templates"
         },
         {
             "source": "CodingStandards\\c4_model.md",
@@ -5385,33 +5085,15 @@
         },
         {
             "source": "CodingStandards\\Archictures\\c4_model.md",
-            "target": "https://solitontech.sharepoint.com/:u:/r/sites/SolitonKnowledgeBase/Soliton%20Knowledge%20Base/Software%20Programming/Architecture/C4%20Model%20Templates/C4_model_template.drawio?csf=1&web=1&e=se0rkS",
-            "value": 1,
-            "title": "C4 Model Template"
-        },
-        {
-            "source": "CodingStandards\\Archictures\\c4_model.md",
             "target": "https://www.microsoft.com/en-us/microsoft-365/visio/",
             "value": 1,
             "title": "Microsoft Visio"
         },
         {
             "source": "CodingStandards\\Archictures\\c4_model.md",
-            "target": "https://solitontech.sharepoint.com/:u:/r/sites/SolitonKnowledgeBase/Soliton%20Knowledge%20Base/Software%20Programming/Architecture/C4%20Model%20Templates/C4_model_template-C4%20Context.vsdx?d=w4938c852ba384eaa9e6e69f26458c89d&csf=1&web=1&e=B7aKGe",
-            "value": 1,
-            "title": "C4 Context Template"
-        },
-        {
-            "source": "CodingStandards\\Archictures\\c4_model.md",
             "target": "https://github.com/RicardoNiepel/C4-PlantUML",
             "value": 1,
             "title": "C4 PlantUML"
-        },
-        {
-            "source": "CodingStandards\\Archictures\\c4_model.md",
-            "target": "https://solitontech.sharepoint.com/:f:/r/sites/SolitonKnowledgeBase/Soliton%20Knowledge%20Base/Software%20Programming/Architecture/C4%20Model%20Templates/PlantUml?csf=1&web=1&e=kNc95u",
-            "value": 1,
-            "title": "PlantUML Templates"
         },
         {
             "source": "CodingStandards\\Archictures\\c4_model.md",
@@ -5516,12 +5198,6 @@
             "title": "Poetry Documentation"
         },
         {
-            "source": "CodingStandards\\Python\\DependencyManagement.md",
-            "target": "https://solitontech.sharepoint.com/:p:/r/sites/SolitonKnowledgeBase/_layouts/15/Doc.aspx?sourcedoc=%7B1DCB09B7-B1CD-4AEB-AA2B-ED2B10F444A7%7D&file=Python%20-%20Setting%20up%20Virtual%20Environments.pptx&action=edit&mobileredirect=true",
-            "value": 1,
-            "title": "Python - Setting up virtual environments"
-        },
-        {
             "source": "CodingStandards\\Python",
             "target": "CodingStandards\\Python\\DependencyManagement.md",
             "value": 1,
@@ -5562,12 +5238,6 @@
             "target": "https://en.wikipedia.org/wiki/Guido_van_Rossum",
             "value": 1,
             "title": "Guido van Rossum"
-        },
-        {
-            "source": "CodingStandards\\Python\\PythonCodingStandards.md",
-            "target": "https://dev.azure.com/Soliton/SolitonCentral/_git/SolitonCentral?path=/Templates/Python/python_starter_code/README.md&_a=preview",
-            "value": 1,
-            "title": "Python Starter Code Repository"
         },
         {
             "source": "CodingStandards\\Python\\PythonCodingStandards.md",
@@ -5648,24 +5318,6 @@
             "title": "CodingStandards\\React"
         },
         {
-            "source": "DevOps\\AcceptanceTable.md",
-            "target": "https://solitontech.sharepoint.com/:v:/s/TechCouncil/Eai5n1kBId5Oh7vkj28ZyGkB2ZdRfszxSqR9oIPi8H2ctA?e=3xXkJi",
-            "value": 1,
-            "title": "Acceptance Table Tutorial"
-        },
-        {
-            "source": "DevOps\\AcceptanceTable.md",
-            "target": "https://solitontech.sharepoint.com/:p:/s/TechCouncil/EXwD-HA_4IhMuxJS3Qnl7qcBZKmQGPoNEOt2Y1NdfaSAag?e=WePOVj",
-            "value": 1,
-            "title": "Acceptance Table Presentation"
-        },
-        {
-            "source": "DevOps\\AcceptanceTable.md",
-            "target": "https://solitontech.sharepoint.com/:f:/s/SolitonKnowledgeBase/Ejll1co7OFJIt7r_5nKYHWMBCQZI4MlNNChs34PyIi-S_Q?e=Qa2ahx",
-            "value": 1,
-            "title": "Acceptance Table Template & Examples"
-        },
-        {
             "source": "DevOps",
             "target": "DevOps\\AcceptanceTable.md",
             "value": 1,
@@ -5744,18 +5396,6 @@
             "title": "DORA Version Control"
         },
         {
-            "source": "DevOps\\GITVersionControl.md",
-            "target": "https://dev.azure.com/Soliton/SolitonCentral/_git/SolitonCentral?path=/Documents/Handbooks/.assets",
-            "value": 1,
-            "title": "Soliton Central Repo's asset"
-        },
-        {
-            "source": "DevOps\\GITVersionControl.md",
-            "target": "https://dev.azure.com/Soliton/SolitonCentral/_git/SolitonCentral?path=/Documents/Handbooks/Conventions/SoftwareEngineering/Practices/SoftwareEngineeringPractices.md&anchor=requirement-documentation&_a=preview#requirement-documentation",
-            "value": 1,
-            "title": "here"
-        },
-        {
             "source": "DevOps",
             "target": "DevOps\\GITVersionControl.md",
             "value": 1,
@@ -5817,81 +5457,9 @@
         },
         {
             "source": "DevOps\\SoftwareEngineeringPractics.md",
-            "target": "https://solitontech.sharepoint.com/:p:/s/TechCouncil/EQgOFsXa6dxGq4HwUaYXOzEBK6y6u_8mzdngtrdfflrMaQ?e=NdkOgH",
-            "value": 1,
-            "title": "Requirement Documentation](#requirement-documentation)     | Records functional and non-functional requirements                                   | `Project Lead` | [System Requirements Template](../../../Templates/SystemRequirementsTemplate.md), [Feature Requirements Template](../../../Templates/FeatureRequirementsTemplate.md)                                                                                                                                                                                                        | [Overview"
-        },
-        {
-            "source": "DevOps\\SoftwareEngineeringPractics.md",
-            "target": "https://solitontech.sharepoint.com/:f:/s/SolitonKnowledgeBase/Ejll1co7OFJIt7r_5nKYHWMBCQZI4MlNNChs34PyIi-S_Q?e=463jFG",
-            "value": 1,
-            "title": "Acceptance Table Definition](#acceptance-table-definition) | Records all test scenarios for every feature that needs to pass before releasing     | `Project Lead` | [Acceptance Table Template"
-        },
-        {
-            "source": "DevOps\\SoftwareEngineeringPractics.md",
-            "target": "https://dev.azure.com/Soliton/SolitonCentral/_git/SolitonCentral?path=/Documents/Handbooks/Conventions/SoftwareEngineering/Practices/AcceptanceTable/Overview.md&version=GBmain&_a=preview",
-            "value": 1,
-            "title": "Acceptance Table Overview"
-        },
-        {
-            "source": "DevOps\\SoftwareEngineeringPractics.md",
-            "target": "https://solitontech.sharepoint.com/:p:/s/TechCouncil/EXwD-HA_4IhMuxJS3Qnl7qcBZKmQGPoNEOt2Y1NdfaSAag?e=NuTHwY",
-            "value": 1,
-            "title": "Overview"
-        },
-        {
-            "source": "DevOps\\SoftwareEngineeringPractics.md",
-            "target": "https://solitontech.sharepoint.com/:p:/s/TechCouncil/ETFqpFGPR6ZDtVLiKuvJKsoBld4bkga6BjTLBMavfM5OQg?e=tWpSVE",
-            "value": 1,
-            "title": "Version Control](#version-control)                         | Manages versions, changes and facilitates collaboration across all project documents | `Tech Lead`    | [Repository folder structure for projects](../Practices/VersionControl/RepoFolderStructure.md)                                                                                                                                                                                                                                                                              | [Overview"
-        },
-        {
-            "source": "DevOps\\SoftwareEngineeringPractics.md",
-            "target": "https://solitontech.sharepoint.com/:p:/s/TechCouncil/EeM39Q8UiZdMtAEl0v6sjD4Bmbchxl_xbhsWdjQEjipXfg?e=kNYOQw",
-            "value": 1,
-            "title": "Trunk Based Development](#trunk-based-development)         | Version control strategy to streamline integration of code in small batches          | `Tech Lead`    |                                                                                                                                                                                                                                                                                                                                                                             | [Overview"
-        },
-        {
-            "source": "DevOps\\SoftwareEngineeringPractics.md",
             "target": "https://google.github.io/eng-practices/",
             "value": 1,
             "title": "Code Review](#code-review)                                 | Enables identification of drift in quality or best practices                         | `Tech Lead`    | [Code Review Handbook"
-        },
-        {
-            "source": "DevOps\\SoftwareEngineeringPractics.md",
-            "target": "https://solitontech.sharepoint.com/:p:/s/TechCouncil/EWVSythZNXJLkecxr8TsCv4Bqpvl6Pg5Epm2t6tUNmsIOQ?e=vu9fcD",
-            "value": 1,
-            "title": "Overview"
-        },
-        {
-            "source": "DevOps\\SoftwareEngineeringPractics.md",
-            "target": "https://solitontech.sharepoint.com/:p:/s/TechCouncil/ETnwVAzlcBBOiPIOplq5GsQBygP6kEzBwenkxNzEpsKMnQ?e=ceeS4s",
-            "value": 1,
-            "title": "Test Automation](#test-automation)                         | Enables software quality with early detection of bugs & issues                       | `Tech Lead`    | [Test automation overview](./TestAutomation.md)                                                                                                                                                                                                                                                                                                                             | [Overview"
-        },
-        {
-            "source": "DevOps\\SoftwareEngineeringPractics.md",
-            "target": "https://solitontech.sharepoint.com/:p:/s/TechCouncil/EfcrH7RxS4tKsuKiR5_f_KcBRH7XC_BCGVDB-GX4oI6WFw?e=UdOIEV",
-            "value": 1,
-            "title": "Continuous Integration (CI)](#continuous-integration-ci)   | Reduces integration issues and improves developer collaboration                      | `Tech Lead`    | [CI Pipeline Templates for AzDo](../../../../../BuildTools/Pipeline/Templates/)                                                                                                                                                                                                                                                                                             | [Overview"
-        },
-        {
-            "source": "DevOps\\SoftwareEngineeringPractics.md",
-            "target": "https://solitontech.sharepoint.com/:p:/s/TechCouncil/EbYkQg7vVrtKnPbHj-sfbJEBSDFmWz87ZMMlh_crftGHKg?e=9wLcse",
-            "value": 1,
-            "title": "Deployment Automation](#deployment-automation)             | Reduces the risk of production deployment and enables fast deployment                | `Tech Lead`    |                                                                                                                                                                                                                                                                                                                                                                             | [Overview"
-        },
-        {
-            "source": "DevOps\\SoftwareEngineeringPractics.md",
-            "target": "https://solitontech.sharepoint.com/:f:/s/SolitonKnowledgeBase/Ejll1co7OFJIt7r_5nKYHWMBCQZI4MlNNChs34PyIi-S_Q?e=mvBIjO",
-            "value": 1,
-            "title": "Acceptance Table Template"
-        },
-        {
-            "source": "DevOps\\SoftwareEngineeringPractics.md",
-            "target": "https://dev.azure.com/Soliton/SolitonCentral/_git/SolitonCentral?path=/Documents/Handbooks/Conventions/SoftwareEngineering/Practices/AcceptanceTable/Overview.md&version=GBmain&_a=preview",
-            "value": 1,
-            "title": "Acceptance Table Overview"
         },
         {
             "source": "DevOps\\SoftwareEngineeringPractics.md",
@@ -6069,45 +5637,9 @@
         },
         {
             "source": "DevOps\\ContinousIntergration\\ContinousIntergration.md",
-            "target": "https://dev.azure.com/Soliton/_git/SolitonCentral?path=/BuildTools/Pipeline/Templates",
-            "value": 1,
-            "title": "Pipeline Templates"
-        },
-        {
-            "source": "DevOps\\ContinousIntergration\\ContinousIntergration.md",
-            "target": "https://dev.azure.com/Soliton/SolitonCentral/_build/results?buildId=3673&view=logs&j=20e0d27b-13a0-56d1-e92e-356d4b6f13ab&t=48c43fc3-58ff-4cf4-b7c8-a85f63084161",
-            "value": 1,
-            "title": "Python pipeline"
-        },
-        {
-            "source": "DevOps\\ContinousIntergration\\ContinousIntergration.md",
-            "target": "https://dev.azure.com/Soliton/SolitonCentral/_build/results?buildId=6174&view=logs&j=44924a46-d57d-577d-8d02-f491a55bb871&t=e5b6046a-0bf0-52db-7fcf-e461f793026e&l=32",
-            "value": 1,
-            "title": "Documentation Pipeline"
-        },
-        {
-            "source": "DevOps\\ContinousIntergration\\ContinousIntergration.md",
-            "target": "https://solitontech.sharepoint.com/:p:/r/sites/TechCouncil/Shared%20Documents/General/Documents/Utkarsh/Software%20Engineering%20Practices/Practice%20-%20006%20-%20Continuous%20Integration.pptx?d=wb41f2bf74b714a8bb2e2a2479fdffca7&csf=1&web=1&e=qW5yKI",
-            "value": 1,
-            "title": "CI Practice PPT"
-        },
-        {
-            "source": "DevOps\\ContinousIntergration\\ContinousIntergration.md",
-            "target": "https://dev.azure.com/Soliton/SolitonCentral/_wiki/wikis/SolitonCentral.Documents/802/HowToCreatePipelineInAzDo?anchor=how-to-create-a-new-pipeline-in-azure-devops",
-            "value": 1,
-            "title": "How To create a new pipeline in AzDO Soliton Central"
-        },
-        {
-            "source": "DevOps\\ContinousIntergration\\ContinousIntergration.md",
             "target": "https://dora.dev/devops-capabilities/technical/continuous-integration/",
             "value": 1,
             "title": "DORA Continuous Integration"
-        },
-        {
-            "source": "DevOps\\ContinousIntergration\\ContinousIntergration.md",
-            "target": "https://dev.azure.com/Soliton/SolitonCentral/_git/SolitonCentral?path=/CONTRIBUTING.md&_a=preview&anchor=running-the-checks-locally",
-            "value": 1,
-            "title": "Soliton central example"
         },
         {
             "source": "DevOps\\ContinousIntergration\\ContinousIntergration.md",
@@ -6216,12 +5748,6 @@
             "target": "https://google.github.io/eng-practices/review/developer/small-cls.html",
             "value": 1,
             "title": "small chunks"
-        },
-        {
-            "source": "DevOps\\TrunkBasedDevelopment\\Overview.md",
-            "target": "https://dev.azure.com/Soliton/SolitonCentral/_git/SolitonCentral?path=/Documents/Handbooks/Conventions/SoftwareEngineering/MeasuringSoftwareEngineeringPractices.md&version=GBmain&line=47&lineEnd=47&lineStartColumn=1&lineEndColumn=27&lineStyle=plain&_a=contents",
-            "value": 1,
-            "title": "metrics"
         },
         {
             "source": "DevOps\\TrunkBasedDevelopment\\Overview.md",
@@ -7106,12 +6632,6 @@
             "title": "config.yaml"
         },
         {
-            "source": "RAG360\\Data Ingestion\\Vector Database\\Self Hosted\\Qdrant.md",
-            "target": "https://solitontech-my.sharepoint.com/:f:/p/pradeep_suresh/EqQrEhbHr2VDmBVnBweoUpoBTRjllcgdMUbUsUpstko63w?e=fKetXI",
-            "value": 1,
-            "title": "Trulens Evaluation report files"
-        },
-        {
             "source": "RAG360\\Data Ingestion\\Vector Database\\Self Hosted",
             "target": "RAG360\\Data Ingestion\\Vector Database\\Self Hosted\\Qdrant.md",
             "value": 1,
@@ -7470,12 +6990,6 @@
             "target": "https://ollama.com/library/llama3/tags",
             "value": 1,
             "title": "https://ollama.com/library/llama3/tags"
-        },
-        {
-            "source": "RAG360\\Generation\\models\\Offline\\Ollama\\Overview.md",
-            "target": "https://dev.azure.com/Soliton/Soliton%20Ventures/_git/Astro?version=GBmain&path=/prototypes/litellmproxy/litellmproxy/ollama_access.ipynb",
-            "value": 1,
-            "title": "https://dev.azure.com/Soliton/Soliton%20Ventures/\\_git/Astro?version=GBmain&path=/prototypes/litellmproxy/litellmproxy/ollama_access.ipynb"
         },
         {
             "source": "RAG360\\Generation\\models\\Offline\\Ollama\\Overview.md",

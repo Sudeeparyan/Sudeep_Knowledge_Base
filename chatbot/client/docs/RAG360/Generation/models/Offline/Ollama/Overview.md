@@ -146,9 +146,6 @@
 
 **Langchain, Llama-index, and LiteLLM** have support to access Ollama.
 
-#### **Example:-**
-
-[https://dev.azure.com/Soliton/Soliton%20Ventures/\_git/Astro?version=GBmain&path=/prototypes/litellmproxy/litellmproxy/ollama_access.ipynb](https://dev.azure.com/Soliton/Soliton%20Ventures/_git/Astro?version=GBmain&path=/prototypes/litellmproxy/litellmproxy/ollama_access.ipynb)
 
 ### Inferencing Speed
 

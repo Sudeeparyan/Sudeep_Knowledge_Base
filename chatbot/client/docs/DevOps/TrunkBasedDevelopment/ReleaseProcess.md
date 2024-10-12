@@ -20,7 +20,7 @@ release.
 ## Recommended Release Process for teams with low release cadence
 
 For teams with low release cadence, they can go with 'Branch for release'
-strategy. This is the default recommendation for Soliton teams. It also helps in
+strategy. This is the default recommendation for teams. It also helps in
 handling intermediate bug fix releases seamlessly.
 
 ### Roles involved
@@ -137,11 +137,7 @@ from trunk' strategy.
 4. Any production issues will be dealt in fix forward approach where the updates
    will be made in trunk and released again.
 
-**Note:** 'Release from trunk' strategy is less likely to be followed at
-Soliton. Hence the process is not explained in detail in this document. If you
-see a need to adopt this release style in your project, please reach out to
-[Vidhyaprabha V](mailto:vidhyaprabha.vasudevan@solitontech.com) or
-[TechOps Team](mailto:techops@solitontech.com) to understand more.
+**Note:** 'Release from trunk' strategy is less likely to be followed . Hence the process is not explained in detail in this document.
 
 
 # Frequently Asked Questions (FAQs)

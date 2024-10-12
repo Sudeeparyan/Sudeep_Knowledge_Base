@@ -87,9 +87,7 @@ Microsoft documentation:
    for `generating text`, `analyzing sentiment` or
    `automating programming tasks`.
 
-### Practical Guides [Video]
 
-1. [Azure Open AI deployment with Managed Identity](https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Open%20AI?csf=1&web=1&e=VTudTF)
 
 ### Learn more about Azure Open AI Services
 

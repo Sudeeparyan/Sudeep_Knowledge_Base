@@ -1,7 +1,7 @@
 ### 🔍 Overview - Test Automation
 
 This document provides an overview on test automation, a must-have software
-engineering practice for all Soliton projects.
+engineering practice for all projects.
 
 ## 📖 Glossary
 

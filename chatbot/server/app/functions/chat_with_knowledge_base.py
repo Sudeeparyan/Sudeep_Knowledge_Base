@@ -38,7 +38,7 @@ def format_history(history):
 
 
 def get_file_paths_from_nodes(nodes):
-    github_repo_path = "https://github.com/vignesh14052002/KnowledgeBase/blob/master/knowledge_base/{file}"
+    github_repo_path = "https://github.com/Sudeeparyan/Sudeep_Knowledge_Base/tree/master/chatbot/client/docs{file}"
     return [github_repo_path.format(file=node.metadata["filepath"]) for node in nodes]
 
 

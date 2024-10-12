@@ -13,19 +13,12 @@ easy to audit changes.
 Understand in detail
 [here](https://dora.dev/devops-capabilities/technical/version-control/).
 
-| Topic                  | Description                                                     |
-| ---------------------- | --------------------------------------------------------------- |
-| Practice Owners        | Tech lead                                                       |
-| Practitioners          | Developers, Tech Leads                                          |
-| Time Investment        | ⏳ (1 out of 5)                                                 |
-| Return on Investment   | 🚀🚀🚀 (3 out of 5)                                             |
-| Utkarsh Cohort Leader  | [Vidhyaprabha V](mailto:vidhyaprabha.vasudevan@solitontech.com) |
-| Utkarsh Tech Expert(s) | [TechOps Team](mailto:techops@solitontech.com)                  |
+
 
 ### Why?
 
 Version control is considered to be one of the core engineering software
-practices in Soliton because it enables:
+practices in  because it enables:
 
 1. Disaster Recovery: Reproduce Deterministically​
 2. Auditability: Show the path backwards for every deployment on where it came​
@@ -170,10 +163,7 @@ based on your project need.
 
 ## Repo configuration
 
-Repo configuration folders may consists of settings or templates that has to be
-enforced throughout the repo. All of these are hidden directories (prefixed with
-a dot) used for configuration purpose. Below are few examples that you can find
-in Soliton Central Repo
+
 
 ```text
 .azuredevops - Pull request template
@@ -185,9 +175,7 @@ in Soliton Central Repo
 
 All the images used in different parts of the repo can be organized in this
 location. For better maintenance the image file can be added by creating the
-exact same folder structure similar to where it is being used. Refer to the
-[Soliton Central Repo's asset](https://dev.azure.com/Soliton/SolitonCentral/_git/SolitonCentral?path=/Documents/Handbooks/.assets)
-folder for example. The general norm for supporting folders like assets is to
+exact same folder structure similar to where it is being used.The general norm for supporting folders like assets is to
 start with . so that it will be hidden always. This can vary based on your
 project need.
 
@@ -227,11 +215,7 @@ Example : How to setup development environment, How to run the application
 All the technical design documents goes into this folder. This includes
 architecture documents, feature specific HLDs, etc.
 
-### Requirement Documents
 
-All the system level and feature specific requirement documents goes into this
-folder. For more details on requirement documents, refer
-[here](https://dev.azure.com/Soliton/SolitonCentral/_git/SolitonCentral?path=/Documents/Handbooks/Conventions/SoftwareEngineering/Practices/SoftwareEngineeringPractices.md&anchor=requirement-documentation&_a=preview#requirement-documentation)
 
 ### Release Notes
 

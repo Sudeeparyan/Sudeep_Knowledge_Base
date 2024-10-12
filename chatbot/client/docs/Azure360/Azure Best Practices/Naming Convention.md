@@ -72,7 +72,6 @@ deviation from the best practice must be documented.
 | Name    | Identifier      | Description               |
 | ------- | --------------- | ------------------------- |
 | rg      | TYPE            | Denotes Resource Group    |
-| sol     | ORGANIZATION    | Soliton organization name |
 | dev     | ENVIRONMENT     | Development Environment   |
 | cin     | REGION          | Location Central India    |
 | stellar | FUNCTION        | Project Name              |

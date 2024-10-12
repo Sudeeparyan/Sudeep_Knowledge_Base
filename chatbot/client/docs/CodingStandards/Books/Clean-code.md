@@ -189,8 +189,7 @@ Incorporated 'DRY' principle to avoid duplications and confusions.
 
 This is a summary of `Clean Code`, by Robert C. Martin.
 
-This is a compilation of book summaries shared in chapter-wise highlights by
-Solitons.
+This is a compilation of book summaries shared in chapter-wise highlights
 
 [[_TOC_]]
 

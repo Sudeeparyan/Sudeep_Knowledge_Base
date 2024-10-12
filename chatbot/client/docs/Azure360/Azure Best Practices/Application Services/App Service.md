@@ -146,21 +146,6 @@ the key considerations
    1. **Enable SSO with Azure Entra ID**: Use Azure Entra ID to implement Single
       Sign-On (SSO) for secure user authentication and access management.
 
-### Practical Guides to deploy & configure App Service [Video]
-
-1.  [Deploy Web App Using Docker Image in App Service](<https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20App%20Service%20(Web%20App)/Step01%20-%20App-service-deploy-web-app-using-docker-image?csf=1&web=1&e=oDxKQI>)
-
-2.  [Security and Network Configuration for App Service](<https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20App%20Service%20(Web%20App)/Step02%20-%20App-service-security-and-network-configuration?csf=1&web=1&e=aamxzX>)
-
-3.  [Private Endpoint and Outbound Traffic Configuration for App Service](<https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20App%20Service%20(Web%20App)/Step03%20-%20App-service-private-endpoint-and-outbound-traffic-configuration?csf=1&web=1&e=GaxgRx>)
-
-4.  [Access App Service with Virtual Machine via Virtual Network](<https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20App%20Service%20(Web%20App)/Step04%20-%20App-service-access-with-virtual-machine-via-virtual-network?csf=1&web=1&e=n9Yaaa>)
-
-5.  [Configure Managed Identity + Custom Domain + SSO Scaling for App Service](<https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20App%20Service%20(Web%20App)/Step05%20-%20App-service-managed-identity+custom-domain+SSO+scaling?csf=1&web=1&e=fx7Ftn>)
-
-:::info
-If you're considering using a vector database, check out how to [Deploy Vector Database in App Service for development Environment](https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20App%20Service%20(Web%20App)/Others?csf=1&web=1&e=yYuNks)
-:::
 ### Learn more about App Service
 
 1. Learn more about

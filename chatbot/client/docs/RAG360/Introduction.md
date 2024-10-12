@@ -11,9 +11,9 @@ import ZoomImage from "../../src/components/Zooming/ZoomImage";
 
 ## Purpose of RAG360
 1. Knowledge on AI is not tied to an engineer or project, but available in the company for everyone to access and improve on.
-2. Collection of all knowledge that is gained by the Venture-AI team through the exploration and projects.
+2. Collection of all knowledge that is gained by the Research on AI domain exploration and projects.
 3. Provide some readymade and proven techniques in AI development that is successful in different projects and use cases, so engineers do not need to reinvent the wheel.
-4. Becomes a differentiator for why customer should prefer Soliton compared to other competitors as this should contain methodologies and techniques that are specific to test and measurement needs.
+4. Becomes a differentiator for why customer should prefer as this should contain methodologies and techniques that are specific to test and measurement needs.
 
 ## Work Flow of RAG360
 <ZoomImage/>
@@ -21,7 +21,7 @@ import ZoomImage from "../../src/components/Zooming/ZoomImage";
 ## RAG360 Version History
 
 :::info 
-This is a running document and open source within Soliton as engineers
+This is a running document and open source within engineers
 can improve the contents as needed. The version table primarily captures the
 major revision changes. 
 :::

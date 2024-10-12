@@ -24,13 +24,11 @@
 | Practitioners          | Developers, Tech Leads, Project Leads, Product Owners, Release Managers                                                                                                                        |
 | Time Investment        | ⏳⏳⏳ (3 out of 5)                                                                                                                                                                            |
 | Return on Investment   | 🚀🚀🚀 (3 out of 5)                                                                                                                                                                            |
-| Utkarsh Cohort Leader  | [Jayabal KS](mailto:jayabal.somasundram@solitontech.com)                                                                                                                                       |
-| Utkarsh Tech Expert(s) | [Sathyaprakash U](mailto:sathyaprakash@solitontech.com) (LabVIEW), [Karvendan V](mailto:karvendan.velusamy@solitontech.com) (Python), [TechOps Team](mailto:techops@solitontech.com) (Web, C#) |
 
 ### Why?
 
 Deployment Automation (DA) is considered to be one of the core engineering
-software practices in Soliton because:
+software practices because:
 
 1. Automating deployment process saves time and effort improving efficiency of
    team and accelerating delivery cycles

@@ -36,14 +36,13 @@
     ```js
     # To perform a basic ping test to a target address (IP address or hostname)
 
-    `ping www.solitontech.com`
+
     ```
     ![ping command](../Images/Ping/ping.png)
 
     ```js
     # To send a specific number of ping requests
 
-    `ping www.solitontech.com -n 5`
     ```
 
     ![ping count command](../Images/Ping/count.png)
@@ -51,7 +50,7 @@
     ```js
     # To specify the size of the ping packet
 
-    `ping www.solitontech.com -l 2024`
+    
     ```
 
     ![ping size of the packet](../Images/Ping/SizeOfPacket.png)
@@ -59,14 +58,14 @@
     ```js
     # To set a timeout period for each ping reply
 
-    `ping www.solitontech.com -w 2000`
+    
     ```
     ![ping timeout period](../Images/Ping/TimeOfPacket.png)
 
     ```js
     # To continuously ping the destination until stopped manually
 
-    `ping www.solitontech.com -t`
+    
     ```
     ![ping continuously](../Images/Ping/UnstoppablePackets.png)
 
@@ -75,7 +74,7 @@
 
     [Time-to-Live value, which shows the number of hops the packet has made]
 
-    `ping www.solitontech.com -i 64`
+    
     ```
     ![TTL](../Images/Ping/TTl.png)
 
@@ -86,7 +85,7 @@
     ```js
 # To perform a basic ping test to a target address (IP address or hostname)
 
-`ping www.solitontech.com`
+
 
 ```
 ![Linux](../Images/Linux-Ping.png)
@@ -94,20 +93,20 @@
 ```js
 # To send a specific number of ping requests
 
-`ping -c 5 www.solitontech.com`
+
 ```
 ![Linux](../Images/Ping-Linux.png)
 ```js
 # To specify the size of the ping packet
 
-`ping -s 2024 www.solitontech.com`
+
 ```
 ![Linux](../Images/PING-Packet.png)
 
 ```js
 # To set a timeout period for each ping reply
 
-`ping -W 2 www.solitontech.com`
+
 ```
 ![Linux](../Images/TimeOut.png)
 ```js
@@ -115,7 +114,7 @@
 
 [Time-to-Live value, which shows the number of hops the packet has made]
 
-`ping -t 64 www.solitontech.com`
+
 ```
 
 ![Linux](../Images/TTL.png)
@@ -158,7 +157,7 @@
     ```js
     # To perform a basic traceroute to a target address (IP address or hostname)
 
-    `tracert www.solitontech.com`
+    
     ```
     ![trace command](../Images/TraceRoute/Trace.png)
 
@@ -169,7 +168,7 @@
 ```js
 # To perform a basic traceroute to a target address (IP address or hostname)
 
-`traceroute www.solitontech.com`
+
 ```
 </details>
 

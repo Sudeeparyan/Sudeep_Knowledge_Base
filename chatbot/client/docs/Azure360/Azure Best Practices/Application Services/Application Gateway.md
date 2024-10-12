@@ -29,19 +29,7 @@ the official Microsoft documentation:
 2. [Create Application Gateway](https://learn.microsoft.com/en-us/azure/application-gateway/)
    📖
 
-:::
 
-### Practical Guides [Video]
-
-1.  [Azure Application Gateway - Deployment Overview](https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Application%20Gateway/Step01%20-%20Deployment-overview?csf=1&web=1&e=XtClHT)
-
-2.  [App Service Configuration and Application Gateway Deployment](https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Application%20Gateway/Step02%20-%20App-service-configuration-and-application-gateway-deployment?csf=1&web=1&e=a7Fq2C)
-
-3.  [Application Gateway Http Configuration to App Service](https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Application%20Gateway/Step03%20-%20Application-gateway-http-configuration-to-app-service?csf=1&web=1&e=9JDx2J)
-
-4.  [Create Local SSL Certificate for App Service Custom Domain](https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Application%20Gateway/Step04%20-%20Create-local-ssl-cert-for-app-service-custom-domain?csf=1&web=1&e=R0NoYL)
-
-5.  [Configure Https Routing for Application Gateway](https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Application%20Gateway/Step05%20-%20Application-gateway-configure-https-routing?csf=1&web=1&e=a2H9ls)
 
 ### Learn more about Azure Application Gateway
 

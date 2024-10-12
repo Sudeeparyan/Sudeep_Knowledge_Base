@@ -1,6 +1,4 @@
-1. Convert PDF to structured data , with layout (Heirarchy of contents)
-
-2. Local Experiment path - `C:\vignesh\ventures\experiment\pdf_parsing.ipynb`
+Convert PDF to structured data , with layout (Heirarchy of contents)
 
 ### Advantages
 

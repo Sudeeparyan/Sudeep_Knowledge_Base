@@ -151,7 +151,7 @@ instruction_str_emp = f"""
 6. For the given dataset, there are 18 columns. First 6 columns are string columns and the next 12 columns are integer columns.
 7. The integer columns are month columns which indicate the availability percentage. If the value is 0 means not available, otherwise greater than 0 means available for that particular percentage.
 8. The 'Information not found' cells are denoted by 'No Info' for string columns and -1 for integre columns.
-9. While crafting code always ignore "soliton", "solitons" words for any column search, because it is the company name.
+9. While crafting code always ignore "microsoft", "microsoft" words for any column search, because it is the company name.
 10. While crafting code always use the short forms for technology column search. Short forms are labview - LV, angular - Angular, fpga - FPGA, teststand - TS, c# - C#, python - Python, machine learning - ML, database - DB, marketing - Marketing, sales - Sales, web technology - WT, testing or test - Test, ui/ux - UI/UX, react - React, gc - GC, catalyst - Catalyst, leave - Leave, general - General, kss - KSS.
 11. These are the currently available missions - {missions}, while crafting code use only these missions for mission_assigned column search.
 12. These are the currently available engineer roles - {engineer_role}, while crafting code always use 'STARTSWITH' search for the engineer_role column search.
@@ -177,37 +177,6 @@ print(f"Executing the following expression of type {type(result)}:\n{code}\n\nRe
 
 ```
 
-#### **Output**
-
-```js
-
-Executing the following expression of type <class 'pandas.core.frame.DataFrame'>:
-result = df[(df['employee_name'].str.lower().str.contains('arun')) & ((df['Sep-2023'] != '0') | (df['Oct-2023'] != '0') | (df['Nov-2023'] != '0') | (df['Dec-2023'] != '0'))][['employee_name','employee_id', 'email', 'mission_assigned', 'engineer_role', 'technology', 'Sep-2023', 'Oct-2023', 'Nov-2023', 'Dec-2023']]
-
-Result is:
-                employee_name employee_id  \
-39        Arun Krishna Kumar        1709
-40            Arun Natarajan        1624
-41   Arundhathy Subramhanian        1569
-140       Kokila Karunagaran        1668
-183        Nandini Arunkumar     No Info
-
-                                       email mission_assigned  \
-39              arun.krishna@solitontech.com              COM
-40            arun.natarajan@solitontech.com              SCV
-41   arundhathy.subramhanian@solitontech.com              COM
-140       kokila.karunagaran@solitontech.com              COM
-183             nandini.arun@solitontech.com              COM
-
-          engineer_role technology Sep-2023 Oct-2023 Nov-2023 Dec-2023
-39   Project Engineer 1         WT      100      100      100      100
-40   Project Engineer 2         C#        0        0        0      100
-41   Project Engineer 2  Marketing  No Info  No Info  No Info  No Info
-140                 TSS       Test        0        0      100      100
-183        Project Lead    No Info  No Info  No Info  No Info  No Info
-
-
-```
 
 By integrating the responsive and intuitive capabilities of LLMs with the robust
 data processing power of Pandas, PandasLLM could revolutionize the way teams

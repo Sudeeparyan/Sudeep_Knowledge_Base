@@ -190,7 +190,7 @@ This will create a `requirements.txt` file with all the pinned versions of your 
 ## 6. References
 
 1. [Poetry Documentation](https://python-poetry.org/docs/)
-2. [Python - Setting up virtual environments](https://solitontech.sharepoint.com/:p:/r/sites/SolitonKnowledgeBase/_layouts/15/Doc.aspx?sourcedoc=%7B1DCB09B7-B1CD-4AEB-AA2B-ED2B10F444A7%7D&file=Python%20-%20Setting%20up%20Virtual%20Environments.pptx&action=edit&mobileredirect=true)
+
 ```
 
 This single-file code provides a comprehensive guide to Python dependency management using best practices, especially focused on using Poetry for managing dependencies.

@@ -107,8 +107,7 @@ prithivida/Splade_PP_en_v1 for Sparse vectors
 | Injestion pipeline running locally with PyPDF Reader | Weaviate     | True                  | 0.59                            | 0.86                    | 0.82                   | 8                                             |
 | Injestion pipeline running locally with PyPDF Reader | Weaviate     | False                 | NA                              | NA                      | NA                     | NA                                            |
 
-The Trulens evaluation files can be identified here :
-[Trulens Evaluation report files](https://solitontech-my.sharepoint.com/:f:/p/pradeep_suresh/EqQrEhbHr2VDmBVnBweoUpoBTRjllcgdMUbUsUpstko63w?e=fKetXI)
+
 
 ### Advantages
 

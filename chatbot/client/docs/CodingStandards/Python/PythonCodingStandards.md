@@ -105,7 +105,7 @@ Below is a list of best practices to follow in addition to using linters and for
 
 ### Limit Maximum Line Length to 100 Characters
 
-While PEP 8 recommends a maximum of 79 characters per line, many developers find this limit too restrictive. Therefore, a maximum of 100 characters per line has been adopted as a common best practice across Soliton. Please note: NI also adheres to the 100-character standard.
+While PEP 8 recommends a maximum of 79 characters per line, many developers find this limit too restrictive. Therefore, a maximum of 100 characters per line has been adopted as a common best practice across. Please note: NI also adheres to the 100-character standard.
 
 ### Use Descriptive Names
 
@@ -157,7 +157,6 @@ When a linter or formatter makes changes to code, it can complicate the code rev
 
 Please find the Python starter code repository at the link below, which will help in setting up linters and recommended tools.
 
-[Python Starter Code Repository](https://dev.azure.com/Soliton/SolitonCentral/_git/SolitonCentral?path=/Templates/Python/python_starter_code/README.md&_a=preview)
 
 ## 8. Further References
 
@@ -200,7 +199,5 @@ Below are the references used in this document:
    - Improved sentence structures for better readability.
    - Added explanations where necessary to enhance understanding.
 
-8. **Consistency**:
-   - Maintained consistent use of company-specific terms like "Soliton" and "NI".
-   - Ensured uniform styling throughout the document.
+
 

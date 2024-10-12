@@ -37,12 +37,6 @@ import React from 'react'; import ReactPlayer from 'react-player';
     </tbody>
 </table>
 
-### Practical Guides [Video]
-
-1. [Azure Container Registry - Push local docker image to ACR](https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Container%20Registry/Step01%20-%20Azure-container-registry-push-local-docker-image-to-acr?csf=1&web=1&e=XmT4v2)
-
-2. [Azure Container Registry with Azure Devops CI/CD Setup](https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Container%20Registry/Step02%20-%20Azure-container-registry-with-azure-devops-ci-cd-setup?csf=1&web=1&e=AEMpJR)
-
 ### Commands
 
 #### Docker Commands

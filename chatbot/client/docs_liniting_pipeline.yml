@@ -9,7 +9,7 @@ trigger:
     - "**/*.md"
 
 pool:
-  name: "Ventures"
+  name: "SudeepAryan"
 
 variables:
 - name: working_dir

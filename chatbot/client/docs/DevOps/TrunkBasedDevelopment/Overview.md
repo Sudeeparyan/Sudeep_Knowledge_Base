@@ -11,19 +11,10 @@ developers merge small, frequent updates to a core `trunk` or `main` branch.
 Understand in detail
 [here](https://dora.dev/devops-capabilities/technical/trunk-based-development/).
 
-| Topic                  | Description                                                     |
-| ---------------------- | --------------------------------------------------------------- |
-| Practice Owners        | Tech lead                                                       |
-| Practitioners          | Developers, Tech Leads                                          |
-| Time Investment        | ⏳⏳ (2 out of 5)                                               |
-| Return on Investment   | 🚀🚀🚀🚀 (4 out of 5)                                           |
-| Utkarsh Cohort Leader  | [Vidhyaprabha V](mailto:vidhyaprabha.vasudevan@solitontech.com) |
-| Utkarsh Tech Expert(s) | [TechOps Team](mailto:techops@solitontech.com)                  |
-
 ### Why?
 
 Trunk-based development is considered to be one of the core engineering software
-practices in Soliton because:
+practices
 
 1. Faster integration and hence faster feedback on issues
 2. Reduced merge conflicts
@@ -109,7 +100,7 @@ When starting to adopt TBD, Tech Lead should take care of the following,
    will be taken out at the right commit from main
 4. Groom the stories well and split them into smaller tasks
 5. Monitor how well the adoption is happening with the help of these
-   [metrics](https://dev.azure.com/Soliton/SolitonCentral/_git/SolitonCentral?path=/Documents/Handbooks/Conventions/SoftwareEngineering/MeasuringSoftwareEngineeringPractices.md&version=GBmain&line=47&lineEnd=47&lineStartColumn=1&lineEndColumn=27&lineStyle=plain&_a=contents)
+
 
 ## Implementation
 

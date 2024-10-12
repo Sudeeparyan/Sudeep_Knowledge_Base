@@ -332,11 +332,6 @@ Considering selecting an Azure Storage Account for
         </tbody>
     </table>
 
-### Practical Guides [Video]
-
-     1. [Azure Storage Account Deployment with Security Configs](https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Storage%20Account/Step01%20-%20Azure-storage-account-deployment-with-security-configs?csf=1&web=1&e=nN9rDX)
-
-     2. [Azure Storage Account Private Endpoint with Managed Identity](https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Storage%20Account/Step02%20-%20Azure-storage-account-private-endpoint-with-managed-identity?csf=1&web=1&e=iiWTf7)
 
 ### Learn more about Storage Account
 

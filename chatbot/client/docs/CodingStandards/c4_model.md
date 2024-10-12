@@ -16,8 +16,6 @@ The [C4 Model](https://c4model.com/) is a method for visualizing software archit
 
 It is a notation-independent and tool-independent way to visualize architecture.
 
-> :mega: **C4 Model** is Soliton's recommended method for visualizing and documenting software architecture.
-
 ## Why Choose C4?
 
 The C4 Model offers a user-friendly and easily understandable approach to software architecture diagramming. It provides a hierarchical framework for conceptualizing the structures within a software system. Here are several distinct advantages of using C4 Models over other architecture diagramming methods like UML:
@@ -79,20 +77,14 @@ Shows how each component is implemented in code. At this level, you can create c
 In this example, we can see how the `Mainframe Banking System Facade` component is coded via a UML diagram. There are different ways to represent code diagrams, with [UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language) being one of the most popular.
 
 
-## How to Create C4 Model Diagrams at Soliton
+## How to Create C4 Model Diagrams
 
 1. **Create a System Context Diagram:** Illustrate the system at the center, surrounded by its users and external systems.
 2. **Create Container Diagrams:** For each container, visualize the internal components and their interactions.
 3. **Create Component Diagrams:** For each component, detail its implementation, including classes and technologies used.
 4. **Create Code-Level Diagrams (Optional):** If needed, illustrate finer details using UML diagrams. This step is optional and can be valuable for in-depth documentation or troubleshooting.
 
-### Recommended Tools
-
-| Tool                                      | Template URL                                                                                                                                                                                                                                         |
-| -----------------------------------------| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Draw.io (diagrams.net)](https://app.diagrams.net/) | [C4 Model Template](https://solitontech.sharepoint.com/:u:/r/sites/SolitonKnowledgeBase/Soliton%20Knowledge%20Base/Software%20Programming/Architecture/C4%20Model%20Templates/C4_model_template.drawio?csf=1&web=1&e=se0rkS)                              |
-| [Microsoft Visio](https://www.microsoft.com/en-us/microsoft-365/visio/) | [C4 Context Template](https://solitontech.sharepoint.com/:u:/r/sites/SolitonKnowledgeBase/Soliton%20Knowledge%20Base/Software%20Programming/Architecture/C4%20Model%20Templates/C4_model_template-C4%20Context.vsdx?d=w4938c852ba384eaa9e6e69f26458c89d&csf=1&web=1&e=B7aKGe) |
-| [C4 PlantUML](https://github.com/RicardoNiepel/C4-PlantUML) | [PlantUML Templates](https://solitontech.sharepoint.com/:f:/r/sites/SolitonKnowledgeBase/Soliton%20Knowledge%20Base/Software%20Programming/Architecture/C4%20Model%20Templates/PlantUml?csf=1&web=1&e=kNc95u)                                          |
+                                     |
 
 ### Do's
 

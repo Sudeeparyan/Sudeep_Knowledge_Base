@@ -2,7 +2,7 @@
 name = "chatbot"
 version = "0.1.0"
 description = "A chatbot that uses AI to answer questions from my knowledge base"
-authors = ["vignesh14052002 <vignesharivazhagan1409@gmail.com>"]
+authors = ["sudeeparyan <sudeeparyang@gmail.com>"]
 readme = "README.md"
 packages = [{ include = "app"}]
 

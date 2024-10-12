@@ -37,5 +37,4 @@ page is a logical unit.
 
 ### Use Case
 
-**Books and Manuals:** Where each page is a logical unit of information. For
-example, In Vina, the Soliton Impact report can come under that way.
+**Books and Manuals:** Where each page is a logical unit of information.

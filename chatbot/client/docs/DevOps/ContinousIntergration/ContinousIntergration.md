@@ -14,21 +14,12 @@ changes and running automated tests. Understand in detail
 [here](https://dora.dev/devops-capabilities/technical/continuous-integration/)
 before proceeding.
 
-| Topic                  | Description                                                                                                                                                                                    |
-| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Practice Owners        | Tech lead                                                                                                                                                                                      |
-| Practitioners          | Developers, Tech Leads                                                                                                                                                                         |
-| Time Investment        | ⏳ (1 out of 5)                                                                                                                                                                                |
-| Return on Investment   | 🚀🚀🚀🚀 (4 out of 5)                                                                                                                                                                          |
-| Utkarsh Cohort Leader  | [Vignesh A S](mailto:vignesh.annamalai@solitontech.com)                                                                                                                                        |
-| Utkarsh Tech Expert(s) | [Nishanth R](mailto:nishanth.rangasamy@solitontech.com) (LabVIEW), [Karvendan V](mailto:karvendan.velusamy@solitontech.com) (Python), [TechOps Team](mailto:techops@solitontech.com) (Web, C#) |
-
 ### Why?
 
-<!--Provide reasons for why this is needed now in Soliton and backing industry
+<!--Provide reasons for why this is needed now in backing industry
 standards, research conclusions from DORA-->
 
-CI is considered to be one of the core engineering software practices in Soliton
+CI is considered to be one of the core engineering software practices
 because:
 
 1. Integration issues can be detected very early and frequently
@@ -121,19 +112,6 @@ For more details refer to
 > 4. Difficult merges and overall slower development
 > 5. Poor developer productivity
 
-### Resources
-
-<!-- Table to links on templates,
-internal how to guides and documentations, external links, examples for different
- tech
-stacks -->
-
-| Topic                  | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Templates              | [Pipeline Templates](https://dev.azure.com/Soliton/_git/SolitonCentral?path=/BuildTools/Pipeline/Templates)                                                                                                                                                                                                                                                                                                                                                                                                |
-| Examples               | [Python pipeline](https://dev.azure.com/Soliton/SolitonCentral/_build/results?buildId=3673&view=logs&j=20e0d27b-13a0-56d1-e92e-356d4b6f13ab&t=48c43fc3-58ff-4cf4-b7c8-a85f63084161), [Documentation Pipeline](https://dev.azure.com/Soliton/SolitonCentral/_build/results?buildId=6174&view=logs&j=44924a46-d57d-577d-8d02-f491a55bb871&t=e5b6046a-0bf0-52db-7fcf-e461f793026e&l=32)                                                                                                                       |
-| Internal Documentation | [CI Practice PPT](https://solitontech.sharepoint.com/:p:/r/sites/TechCouncil/Shared%20Documents/General/Documents/Utkarsh/Software%20Engineering%20Practices/Practice%20-%20006%20-%20Continuous%20Integration.pptx?d=wb41f2bf74b714a8bb2e2a2479fdffca7&csf=1&web=1&e=qW5yKI), [How To create a new pipeline in AzDO Soliton Central](https://dev.azure.com/Soliton/SolitonCentral/_wiki/wikis/SolitonCentral.Documents/802/HowToCreatePipelineInAzDo?anchor=how-to-create-a-new-pipeline-in-azure-devops) |
-| External Links         | [DORA Continuous Integration](https://dora.dev/devops-capabilities/technical/continuous-integration/)                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 > :warning: **Note:**
 >
@@ -160,7 +138,6 @@ needs
 2. Existing manual test cases should be converted into automated test cases -
    unit, integration or acceptance tests
 3. Install & setup static code analysis
-   ([Soliton central example](https://dev.azure.com/Soliton/SolitonCentral/_git/SolitonCentral?path=/CONTRIBUTING.md&_a=preview&anchor=running-the-checks-locally))
    tools for:
    - Linting
    - Formatting

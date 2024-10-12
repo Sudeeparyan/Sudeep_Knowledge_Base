@@ -1026,9 +1026,9 @@ const sidebars: SidebarsConfig = {
     "DevOps/TestAutomation",
     "DevOps/SoftwareEngineeringPractics",    
   ],
-  graphsidebar:[
-    "KnowledgeBase/KnowledgeBase",
-  ]
+  // graphsidebar:[
+  //   "KnowledgeBase/KnowledgeBase",
+  // ]
 };
 
 export default sidebars;

@@ -52,11 +52,7 @@ conducted and passed successfully before shipping the feature.
 - **Required:** Development Team, Tech Lead, Project Lead.
 - **Optional:** Product Owner, Customer.
 
-## 🚀 How to get started?
 
-- [Acceptance Table Tutorial](https://solitontech.sharepoint.com/:v:/s/TechCouncil/Eai5n1kBId5Oh7vkj28ZyGkB2ZdRfszxSqR9oIPi8H2ctA?e=3xXkJi)
-- [Acceptance Table Presentation](https://solitontech.sharepoint.com/:p:/s/TechCouncil/EXwD-HA_4IhMuxJS3Qnl7qcBZKmQGPoNEOt2Y1NdfaSAag?e=WePOVj)
-- [Acceptance Table Template & Examples](https://solitontech.sharepoint.com/:f:/s/SolitonKnowledgeBase/Ejll1co7OFJIt7r_5nKYHWMBCQZI4MlNNChs34PyIi-S_Q?e=Qa2ahx)
 
 ## 📑 Acceptance Table Structure
 
@@ -131,9 +127,4 @@ testing.
 Testing updates should be documented in the Acceptance Table during the final
 feature testing phase.
 
-## 📞 Primary Contacts in Soliton
 
-1. [Padmanaban Jayaraman](mailto:padmanaban.jayaraman@solitontech.com)
-2. [Maya Krishnan](mailto:maya.krishnan@solitontech.com) /
-   [Sandhiya Ranganathan](mailto:sandhiya.ranganathan@solitontech.com)
-3. [TechOpsTeam](mailto:techops@solitontech.com)

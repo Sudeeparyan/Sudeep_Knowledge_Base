@@ -31,11 +31,11 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Powered by Soliton Technologies',
+    title: 'Powered by Sudeep Aryan',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Leveraging Soliton Technologies' advanced AI expertise, the website offers cutting-edge resources and methodologies, empowering developers with the best tools and techniques in the industry.
+        Leveraging advanced AI expertise, the website offers cutting-edge resources and methodologies, empowering developers with the best tools and techniques in the industry.
       </>
     ),
   },

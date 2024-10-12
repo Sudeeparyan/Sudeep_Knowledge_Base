@@ -1,21 +1,4 @@
-### Software Engineering Practices at Soliton
-
-## Mandatory Software Engineering Practices
-
-Below is the list of **MUST-HAVE** non-negotiable software engineering practices
-to be adopted across all projects at Soliton.
-
-| S.No | Category            | Practice                                                    | Description                                                                          | Who Owns       | Template or Guideline                                                                                                                                                                                                                                                                                                                                                       | Reference Materials                                                                                                      |
-| ---- | ------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------ | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1    | Documentation       | [Requirement Documentation](#requirement-documentation)     | Records functional and non-functional requirements                                   | `Project Lead` | [System Requirements Template](../../../Templates/SystemRequirementsTemplate.md), [Feature Requirements Template](../../../Templates/FeatureRequirementsTemplate.md)                                                                                                                                                                                                        | [Overview](https://solitontech.sharepoint.com/:p:/s/TechCouncil/EQgOFsXa6dxGq4HwUaYXOzEBK6y6u_8mzdngtrdfflrMaQ?e=NdkOgH) |
-| 2    | Documentation       | [Acceptance Table Definition](#acceptance-table-definition) | Records all test scenarios for every feature that needs to pass before releasing     | `Project Lead` | [Acceptance Table Template](https://solitontech.sharepoint.com/:f:/s/SolitonKnowledgeBase/Ejll1co7OFJIt7r_5nKYHWMBCQZI4MlNNChs34PyIi-S_Q?e=463jFG), [Acceptance Table Overview](https://dev.azure.com/Soliton/SolitonCentral/_git/SolitonCentral?path=/Documents/Handbooks/Conventions/SoftwareEngineering/Practices/AcceptanceTable/Overview.md&version=GBmain&_a=preview) | [Overview](https://solitontech.sharepoint.com/:p:/s/TechCouncil/EXwD-HA_4IhMuxJS3Qnl7qcBZKmQGPoNEOt2Y1NdfaSAag?e=NuTHwY) |
-| 3    | Documentation       | [Technical Documentation](#technical-documentation)         | Records clear and comprehensive information about the software                       | `Tech Lead`    | [Document Repository Templates](TBD)                                                                                                                                                                                                                                                                                                                                        | [Overview](TBD)                                                                                                          |
-| 4    | Code Maintenance    | [Version Control](#version-control)                         | Manages versions, changes and facilitates collaboration across all project documents | `Tech Lead`    | [Repository folder structure for projects](../Practices/VersionControl/RepoFolderStructure.md)                                                                                                                                                                                                                                                                              | [Overview](https://solitontech.sharepoint.com/:p:/s/TechCouncil/ETFqpFGPR6ZDtVLiKuvJKsoBld4bkga6BjTLBMavfM5OQg?e=tWpSVE) |
-| 5    | Code Maintenance    | [Trunk Based Development](#trunk-based-development)         | Version control strategy to streamline integration of code in small batches          | `Tech Lead`    |                                                                                                                                                                                                                                                                                                                                                                             | [Overview](https://solitontech.sharepoint.com/:p:/s/TechCouncil/EeM39Q8UiZdMtAEl0v6sjD4Bmbchxl_xbhsWdjQEjipXfg?e=kNYOQw) |
-| 6    | Code Maintenance    | [Code Review](#code-review)                                 | Enables identification of drift in quality or best practices                         | `Tech Lead`    | [Code Review Handbook](https://google.github.io/eng-practices/)                                                                                                                                                                                                                                                                                                             | [Overview](https://solitontech.sharepoint.com/:p:/s/TechCouncil/EWVSythZNXJLkecxr8TsCv4Bqpvl6Pg5Epm2t6tUNmsIOQ?e=vu9fcD) |
-| 7    | Testing and Quality | [Test Automation](#test-automation)                         | Enables software quality with early detection of bugs & issues                       | `Tech Lead`    | [Test automation overview](./TestAutomation.md)                                                                                                                                                                                                                                                                                                                             | [Overview](https://solitontech.sharepoint.com/:p:/s/TechCouncil/ETnwVAzlcBBOiPIOplq5GsQBygP6kEzBwenkxNzEpsKMnQ?e=ceeS4s) |
-| 8    | Testing and Quality | [Continuous Integration (CI)](#continuous-integration-ci)   | Reduces integration issues and improves developer collaboration                      | `Tech Lead`    | [CI Pipeline Templates for AzDo](../../../../../BuildTools/Pipeline/Templates/)                                                                                                                                                                                                                                                                                             | [Overview](https://solitontech.sharepoint.com/:p:/s/TechCouncil/EfcrH7RxS4tKsuKiR5_f_KcBRH7XC_BCGVDB-GX4oI6WFw?e=UdOIEV) |
-| 9    | Testing and Quality | [Deployment Automation](#deployment-automation)             | Reduces the risk of production deployment and enables fast deployment                | `Tech Lead`    |                                                                                                                                                                                                                                                                                                                                                                             | [Overview](https://solitontech.sharepoint.com/:p:/s/TechCouncil/EbYkQg7vVrtKnPbHj-sfbJEBSDFmWz87ZMMlh_crftGHKg?e=9wLcse) |
+### Software Engineering Practices 
 
 ### Documentation Practices
 
@@ -88,25 +71,21 @@ How to implement
    7. All test cases should directly link to the acceptance criteria ID (in AzDo
       work item or equivalent).
    8. Should be reviewed and approved by the `Tech Lead` and `Project Lead`.
-2. Template
-   1. [Acceptance Table Template](https://solitontech.sharepoint.com/:f:/s/SolitonKnowledgeBase/Ejll1co7OFJIt7r_5nKYHWMBCQZI4MlNNChs34PyIi-S_Q?e=mvBIjO)
-3. When
+2. When
    1. Should be defined during the planning phase for each feature.
    2. Should be updated and maintained throughout the development process of the
       feature.
-4. Owner
+3. Owner
    1. The `Project Lead` should define and maintain the acceptance table.
    2. The `Project Lead` can delegate ownership to the `Feature Lead` for
       particular features.
-5. Contributors
+4. Contributors
    1. Tech Lead
    2. Product Owner
    3. Development Team
    4. Customer
    5. QA Engineers
-6. Read more -
-   [Acceptance Table Overview](https://dev.azure.com/Soliton/SolitonCentral/_git/SolitonCentral?path=/Documents/Handbooks/Conventions/SoftwareEngineering/Practices/AcceptanceTable/Overview.md&version=GBmain&_a=preview)
-
+5. 
 > :no_entry: **Risk of not doing**
 >
 > 1. Poor software quality (bugs, requirement misses)

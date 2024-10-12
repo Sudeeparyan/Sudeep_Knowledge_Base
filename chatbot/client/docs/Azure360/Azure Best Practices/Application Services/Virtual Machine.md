@@ -40,10 +40,6 @@ import React from 'react'; import ReactPlayer from 'react-player';
     </tbody>
 </table>
 
-### Practical Guides [Video]
-
-1. [Azure Virtual Machine Deployment with Vector Database as Docker Container](https://solitontech.sharepoint.com/:f:/r/sites/Ventures/Shared%20Documents/Azure/Azure%20360/Guides/Azure%20Virtual%20Machine?csf=1&web=1&e=7iWVQd)
-
 ### Scripts
 
 #### Qdrant Vector Database Setup

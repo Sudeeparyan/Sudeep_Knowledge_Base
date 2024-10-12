@@ -68,7 +68,7 @@ const config: Config = {
       logo: {
         alt: "My Site Logo",
         src: "img/logo.png",
-        srcDark: "img/Soliton-logo.png",
+        srcDark: "img/logo.png",
       },
       items: [
         {
@@ -101,12 +101,12 @@ const config: Config = {
           position: "left",
           label: "Coding Standards",
         },
-        {
-          type: "docSidebar",
-          sidebarId: "graphsidebar",
-          position: "left",
-          label: "Knowledge Graph",
-        },
+        // {
+        //   type: "docSidebar",
+        //   sidebarId: "graphsidebar",
+        //   position: "left",
+        //   label: "Knowledge Graph",
+        // },
         {
           href: "https://sudeeparyan.github.io/",
           label: "Webiste",
@@ -133,15 +133,15 @@ const config: Config = {
     //       items: [
     //         {
     //           label: 'Stack Overflow',
-    //           href: 'https://www.solitontech.com/',
+    //           href: '',
     //         },
     //         {
     //           label: 'Discord',
-    //           href: 'https://www.solitontech.com/',
+    //           href: '',
     //         },
     //         {
     //           label: 'Twitter',
-    //           href: 'https://www.solitontech.com/',
+    //           href: '',
     //         },
     //       ],
     //     },
@@ -154,7 +154,7 @@ const config: Config = {
     //         },
     //         {
     //           label: 'GitHub',
-    //           href: 'https://github.com/solitontech',
+    //           href: '',
     //         },
     //       ],
     //     },

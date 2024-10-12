@@ -56,20 +56,12 @@
 
 # Resolve a new domain to create a cache entry
 
-`Resolve-DnsName solitontech.com`
+
 
 ```
 
 ![Resolve](./Images/Flush/Resolve.png)
 
-```js
-# Show cache again to confirm the IP address is cached
-
-`Get-DnsClientCache | Where-Object { $_.Entry -like "*solitontech.com*"}`
-```
-![DNS Records](./Images/Flush/EntryDNS.png)
-
-```js
 
 # Clear the DNS cache
 
@@ -82,7 +74,7 @@
 
 # Verify cache is cleared
 
-`Get-DnsClientCache | Where-Object { $_.Entry -like "*solitontech.com*"}`
+
 ```
 ![CheckCache](./Images/Flush/CheckCache.png)
 
@@ -121,7 +113,7 @@
 
 # Resolve a new domain to create a cache entry
 
-`nslookup solitontech.com`
+
 ```
 
 ![NsLoopup](./Images/Linux-Ns.png)
