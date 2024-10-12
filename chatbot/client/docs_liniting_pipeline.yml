@@ -1,0 +1,22 @@
+# pipeline for linting markdown files
+
+trigger:
+  branches:
+    include:
+    - main
+  paths:
+    include:
+    - "**/*.md"
+
+pool:
+  name: "Ventures"
+
+variables:
+- name: working_dir
+  value: $(Build.SourcesDirectory)
+
+stages:
+- template: build_tools/pipeline/templates/lint_documents.yml
+  parameters:
+    workingDir: $(working_dir)
+    nodeVersion: 18.x

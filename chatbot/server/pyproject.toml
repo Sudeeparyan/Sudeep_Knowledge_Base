@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "chatbot"
+version = "0.1.0"
+description = "A chatbot that uses AI to answer questions from my knowledge base"
+authors = ["vignesh14052002 <vignesharivazhagan1409@gmail.com>"]
+readme = "README.md"
+packages = [{ include = "app"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langchain = "^0.2.6"
+fastapi = "^0.111.0"
+pydantic = "^2.8.0"
+uvicorn = "^0.30.1"
+langchain-google-genai = "^1.0.7"
+pydantic-settings = "^2.3.4"
+python-dotenv = "^1.0.1"
+langchain-community = "^0.2.6"
+faiss-cpu = "^1.8.0.post1"
+gitpython = "^3.1.43"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+
+[tool.poetry.group.test.dependencies]
+pytest = "^8.2.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,11 @@
+{
+    "**/*.md": [
+      "prettier --write",
+      "npx markdownlint-cli --fix",
+      "cspell lint --show-suggestions"
+    ],
+    "cspelldictionary.txt": [
+      "sort -u -o cspelldictionary.txt cspelldictionary.txt"
+    ]
+  }
+  

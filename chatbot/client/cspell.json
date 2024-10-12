@@ -1,0 +1,36 @@
+{
+  "ignorePaths": ["**/node_modules"],
+  "dictionaryDefinitions": [
+    {
+      "name": "cspelldictionary",
+      "path": "./cspelldictionary.txt",
+      "addWords": true
+    }
+  ],
+  "dictionaries": ["cspelldictionary"],
+  "enabledLanguageIds": ["md", "plaintext"],
+  "patterns": [
+    {
+      "name": "code-single-line",
+      "pattern": "`.+`"
+    },
+    {
+      "name": "code-multi-line",
+      "pattern": "/^\\s*```[\\s\\S]*?^\\s*```/gm"
+    },
+    {
+      "name": "quoted-code-multi-line",
+      "pattern": "/^\\s*>.+```[\\s\\S]*?^\\s*>.+```/gm"
+    },
+    {
+      "name": "code",
+      "pattern": [
+        "code-single-line",
+        "code-multi-line",
+        "quoted-code-multi-line"
+      ]
+    }
+  ],
+  "ignoreRegExpList": ["code"],
+  "enableFiletypes": ["markdown"]
+}

@@ -1,0 +1,8 @@
+RAG360:
+  label: RAG 360
+  # permalink: /facebook
+  description: RAG 360 description
+AZURE360:
+  label: AZURE 360
+  # permalink: /hello
+  description: AZURE 360  description

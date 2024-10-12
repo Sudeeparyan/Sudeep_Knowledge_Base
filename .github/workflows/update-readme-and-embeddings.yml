@@ -1,0 +1,45 @@
+name: Update README and VectorStore embeddings on push to main
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  update-embeddings:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.11'
+      
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Install Poetry
+        uses: snok/install-poetry@v1
+      
+      - name: Install dependencies with Poetry
+        run: poetry install
+        working-directory: chatbot/server
+      
+      - name: Run Update Embeddings script
+        run: poetry run python scripts/update_embeddings.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        working-directory: chatbot/server
+
+      - name: Check for changes
+        id: git-diff
+        run: echo "::set-output name=changes::$(git diff --exit-code > /dev/null && echo 'false' || echo 'true')"
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -am "Update README and Embeddings via GitHub Action"
+          git push
+        if: steps.git-diff.outputs.changes == 'true'
