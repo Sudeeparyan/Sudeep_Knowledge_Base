@@ -161,11 +161,17 @@ const config: Config = {
     //   ],
     //   copyright: `Copyright © ${new Date().getFullYear()} Sudeep Aryan, Inc.`,
     // },
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
+    },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+  
 };
 
 export default config;

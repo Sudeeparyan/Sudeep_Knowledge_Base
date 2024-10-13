@@ -33,6 +33,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-force-graph": "^1.44.5",
+    "react-markdown": "^9.0.1",
     "react-player": "^2.16.0",
     "react-simple-chatbot": "^0.6.1",
     "react-type-animation": "^3.2.0",
