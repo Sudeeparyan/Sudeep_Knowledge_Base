@@ -16,7 +16,7 @@ const chatContainerRef = useRef(null);
     e.preventDefault();
     setInputValue('');
     try {
-      const response = await fetch('http://localhost:8000/v1/knowledge-base/get-answer', {
+      const response = await fetch('https://sudeep-knowledge-base.onrender.com/v1/knowledge-base/get-answer', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
